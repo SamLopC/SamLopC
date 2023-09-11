@@ -8,13 +8,13 @@ I'm Samuel Lopez, also known as SamLopC, and I'm passionate about software devel
 
 ## Technical Skills
 
-- **Programming Languages:** JavaScript, Python, Java
-- **Web Development:** HTML, CSS, React, Node.js
-- **Database:** MongoDB, MySQL
-- **Version Control:** Git, GitHub
-- **Game Development:** Unity, Unreal Engine
-- **Other Skills:** Responsive Design, API Integration, UI/UX Design
-
+- **Programming Languages:** JavaScript 💻, Python 🐍, Java ☕
+- **Web Development:** HTML 🌐, CSS 🎨, React ⚛️, Node.js 🚀
+- **Database:** MongoDB 🍃, MySQL 🐬
+- **Version Control:** Git 📜, GitHub 🐙
+- **Game Development:** Unity 🎮, Unreal Engine 🕹️
+- **Other Skills:** Responsive Design 📱, API Integration 🌐, UI/UX Design 🎨
+- 
 ## Projects
 
 Name: GPT 4 -Hackathon 		
