@@ -31,9 +31,3 @@ Name: Bandit Studios Gameathon
 •	Secured 2nd place in the Gameathon competition.
 
 
-## Installation
-
-Provide installation instructions for any projects or tools you want to share with the community.
-
-```bash
-npm install my-awesome-project
