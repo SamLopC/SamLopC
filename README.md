@@ -4,7 +4,7 @@
 
 ## About Me
 
-I'm Samuel Lopez, also known as SamLopC, and I'm passionate about software development, gaming, and building amazing projects. With a strong foundation in both front-end and back-end technologies, I aim to create innovative and user-friendly solutions that make a difference.
+I'm Samuel Lopez, also known as SamLop, and I'm passionate about software development, gaming, and building amazing projects. With a strong foundation in both front-end and back-end technologies, I aim to create innovative and user-friendly solutions that make a difference.
 
 ## Technical Skills
 
