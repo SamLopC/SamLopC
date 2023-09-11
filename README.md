@@ -1,16 +1,39 @@
-### Hi there 👋
+# Samuel Lopez - SamLopC
 
-<!--
-**SamLopC/SamLopC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+I'm Samuel Lopez, also known as SamLopC, and I'm passionate about software development, gaming, and building amazing projects. With a strong foundation in both front-end and back-end technologies, I aim to create innovative and user-friendly solutions that make a difference.
+
+## Technical Skills
+
+- **Programming Languages:** JavaScript, Python, Java
+- **Web Development:** HTML, CSS, React, Node.js
+- **Database:** MongoDB, MySQL
+- **Version Control:** Git, GitHub
+- **Game Development:** Unity, Unreal Engine
+- **Other Skills:** Responsive Design, API Integration, UI/UX Design
+
+## Projects
+
+Name: GPT 4 -Hackathon 		
+•	Developed a website to enhance the functionality of BOFA using the Chat GPT API, providing personalized data to each participant.
+•	Achieved 3rd place in the Hackathon competition.
+
+Name:	 Google Sustainable Living 	
+•	Created an educational VR game aimed at teaching children about sustainable living.
+•	Actively pursuing implementation into UTEP's summer camps to promote environmental education.
+•	Achieved 3rd place in the Hackathon competition.
+
+Name: Bandit Studios Gameathon        
+•	Designed and developed a fully functional 2D game with an engaging storyline.
+•	Secured 2nd place in the Gameathon competition.
+
+
+## Installation
+
+Provide installation instructions for any projects or tools you want to share with the community.
+
+```bash
+npm install my-awesome-project
